@@ -11,4 +11,4 @@ Record this Repository
 <br>
 
 ## <a name="GitHub">GitHub</a>
-##### [Set up Repository in GitHub](https://github.com/Lin1404/My-Blog/issues/1)
+##### [Set up Repository in GitHub](https://github.com/Lin1404/Business-service-management-system/issues/2)
