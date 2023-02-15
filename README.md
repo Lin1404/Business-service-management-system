@@ -4,10 +4,6 @@ Record this Repository
 
 <br>
 
-## Contents:
-
-1.<a href="#GitHub">GitHub</a>
-
 <br>
 
 ## <a name="GitHub">GitHub</a>
