@@ -1,10 +1,10 @@
-package com.business_service_management_system.aws_bsms;
+package com.bsms.Businessservicemanagementsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AwsBsmsApplicationTests {
+class BusinessServiceManagementSystemApplicationTests {
 
 	@Test
 	void contextLoads() {

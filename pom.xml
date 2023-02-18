@@ -8,11 +8,11 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.business_service_management_system</groupId>
-	<artifactId>aws_bsms</artifactId>
+	<groupId>com.bsms</groupId>
+	<artifactId>Business-service-management-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aws_bsms</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Business-service-management-system</name>
+	<description>backend for Business Service Management System</description>
 	<properties>
 		<java.version>19</java.version>
 	</properties>

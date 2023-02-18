@@ -1,11 +1,11 @@
-package com.business_service_management_system.aws_bsms;
+package com.bsms.Businessservicemanagementsystem;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class AwsBsmsController {
-
+public class BusinessServiceManagementSystemController {
+    
     @RequestMapping("/hello")
     public String hello(){
         return "Hello World!";

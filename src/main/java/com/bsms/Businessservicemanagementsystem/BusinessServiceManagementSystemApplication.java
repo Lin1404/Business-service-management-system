@@ -1,13 +1,13 @@
-package com.business_service_management_system.aws_bsms;
+package com.bsms.Businessservicemanagementsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AwsBsmsApplication {
+public class BusinessServiceManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AwsBsmsApplication.class, args);
+		SpringApplication.run(BusinessServiceManagementSystemApplication.class, args);
 	}
 
 }
