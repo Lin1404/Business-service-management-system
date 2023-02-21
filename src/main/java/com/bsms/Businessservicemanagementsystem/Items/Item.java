@@ -14,7 +14,7 @@ public class Item {
 
     Item(){}
 
-    Item(long id, String userName, String itemName, long itemPrice){
+    Item(long id, String userName, String itemName, double itemPrice){
         this.id = id;
         this.userName = userName;
         this.itemName = itemName;
