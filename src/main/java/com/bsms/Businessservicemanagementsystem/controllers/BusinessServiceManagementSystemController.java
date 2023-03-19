@@ -1,4 +1,4 @@
-package com.bsms.Businessservicemanagementsystem;
+package com.bsms.Businessservicemanagementsystem.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class BusinessServiceManagementSystemController {
     
-    @RequestMapping("/hello")
-    public String hello(){
-        return "Hello World!";
+    @RequestMapping("/")
+    public String homePage(){
+        return "Welcome to Business Service Management System!";
     }
 }
